@@ -1,0 +1,6 @@
+//class name|descriptor|stat effects (pos, pos)|affinity
+Warrior|A soldier who is trained to kill. Very adept with weapons and teamwork.|4St, 4De|
+Sorcerer|One who studies magical arts. Logical, powerful, and containing great potential.|6In, 2Wi|
+Rogue|A stealthy assassin who knows how to manipulate. Knows how to stay hidden.|5De, 3Ch|
+Barbarian|Pure rage. There are two known ways to survive an angry barbarian: outrun it, or have a slower friend.|6St, 2Co|
+Paladin|A faithful fighter. The connection to their faith gives them strength on the battlefield.|5St, 3Wi|

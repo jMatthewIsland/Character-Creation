@@ -1,0 +1,11 @@
+Aarakocra: successfully running from enemies is more likely to work
+		windy environments give Aarakocra 1.5x damage
+Bugbear: When they are above 50% health, their attacks have higher accuracy
+		When they are below 50% health, their attacks lower accuracy but do 1.5x damage
+Dwarf: Weapons and armor created by dwarves are better quality
+		Selling weapons and armor yields more money
+Elf: Forests boost attacks and healing by 2x
+		1/(400/Dexterity) + ( (Dexterity/300) + (Wisdom/500) )  chance of completely evading attacks
+				      ^^^ NORMAL EVASION EQUATION ^^^
+
+

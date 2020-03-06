@@ -1,0 +1,8 @@
+//Name|orientation|qualities|stats effects(pos, pos, neg)|Abilities
+Altria|good|Goodwill, community, selflessness. |3Wi, 3Ch, -1St|
+Rona|good|Faithfulness, teamwork|2St, 5Co, -2In|
+Virtrum|good|Self-righteousness, free-will|3De, 4Co, -2Ch|
+Brutus|evil|Destruction, barbarianism|4St, 4Co, -2In|
+Toxica|evil|Parasitism, thirst, trickery|3In, 4De, -2Co|
+Armago|evil|Manipulation, strategy, endgame|5In, 4Ch, -4St|
+

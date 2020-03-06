@@ -1,0 +1,8 @@
+Classification|Name|indicator+percent|scalar stat|requirements|description|commonality(out of 200)      //scalar stat eq: damage + (damage * ((scalar) * stat))
+Aid|Small health potion|He+20|N/A|N/A|This restores a small percentage of health|140
+Aid|Health potion|He+50|This restores a good amount of health|100
+Aid|Large health potion|He75|This restores a large percentage of health|75
+Aid|Full Heal|He+100|This item fully restores health|25
+Weapon|Training short sword|Da+19|St0.2|3St|A simple steel short sword. Used primarily for training purposes.|30
+Weapon|Training staff|Da+10|In25|3In|A staff used by student wizards.|30
+Weapon|Training daggers|Da+10|

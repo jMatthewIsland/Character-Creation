@@ -1,0 +1,15 @@
+//god
+Energy Boost|Healing spells are more effective in larger parties.
+Selfless|Cannot heal self if a party member has less health.
+Meditative Striker|Attacks after resting the turn before do double damage.
+Medieval|Spells do extra damage to creatures with Medieval proportional to their Constitution.
+Avenger|Attacks are stronger if 75% or more of the party is down.
+Loyalty|If an enemy creature knocks a party member down, creatures with Loyalty become locked on that enemy creature for the next turn.
+Stubborn|Has a chance of ignoring a flee command. Proportional to intelligence stat.
+Dumb Rage|Has a chance of doing double damage. Proportional to intelligence stat.
+Thirsty|Not attacking for 5 turns causes creatures with Thirsty to loose 5% health at the top of the 6th turn.
+Blood-fueled|Physical attacks return a percentage of health for creatures with Blood-fueled. 
+Soul Projection|Creatures with soul projection may rest on any given turn to boost the damage dealt by every other member of the party in the next turn. Scaled by intelligence and charisma.
+Dependance|Creatures with dependance take more damage if they are the only one left in their party.
+//class
+Army-trained|Army-trained creatures work well in teams. The larger the team, the larger the 
